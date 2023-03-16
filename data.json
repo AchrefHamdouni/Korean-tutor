@@ -1,0 +1,62 @@
+[
+  {
+    "kor": "안녕하새요",
+    "rom": "an-nyeong ha-se-yo",
+    "eng": "Hello",
+    "status": "Not yet"
+  },
+  {
+    "kor": "감사합니다",
+    "rom": "gam-sa-hab-ni-da",
+    "eng": "Thank you",
+    "status": "Not yet"
+  },
+  {
+    "kor": "잠시만요",
+    "rom": "jam-si-man-yo",
+    "eng": "Wait a moment/Excuse me",
+    "status": "Not yet"
+  },
+  {
+    "kor": "미안해요",
+    "rom": "mi-an-he-yo",
+    "eng": "I'm sorry.",
+    "status": "Not yet"
+  },
+  {
+    "kor": "이거 얼마예요?",
+    "rom": "i-geo eol-ma-ye-yo",
+    "eng": "How much does this cost?",
+    "status": "Not yet"
+  },
+  {
+    "kor": "공핳 가주새요",
+    "rom": "gong-hang ga-ju-se-yo",
+    "eng": "Please take me to the airport.",
+    "status": "Not yet"
+  },
+  {
+    "kor": "잘 먹겠습니다",
+    "rom": "jal meok-ge-sseum-ni-da",
+    "eng": "I will eat well!",
+    "status": "Not yet"
+  },
+  {
+    "kor": "김밥 주세요",
+    "rom": "gim-bap ju-se-yo",
+    "eng": "Please give me Kimbap.",
+    "status": "Not yet"
+  },
+  {
+    "kor": "맛있어요",
+    "rom": "ma-si-sseo-yo",
+    "eng": "It's delicious!",
+    "status": "Not yet"
+  },
+  {
+    "kor": "헤크리엑터 대박이예요!",
+    "rom": "Hack Reactor dae-bak-i-ye-yo",
+    "eng": "Hack Reactor is amazing!",
+    "status": "Not yet"
+  }
+]
